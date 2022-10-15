@@ -1,4 +1,4 @@
-# 5-steps-to-solving-real-life-projects-on-data-science
+# 5-steps-to-solve-any-real-life-projects-on-data-science
 
 Have you ever been in a situation whereby you know all the commands and formulas in a subject but you find it difficult to solve a particular task on that subject? This was me when I first started learning data science a few months ago. It became a real challenge for me. I was unable to solve any project I received, even with all of the materials I knew, until I was able to apply these 5 steps to any data science project I encountered.
 
